@@ -20,11 +20,6 @@ aumentando la probabilidad de reservas y la difusión del proyecto como platafor
 
 ---
 
-## 🧾 Criterios de Aceptación
-- Se muestran al menos 3 destinos destacados.
-- Cada destino tiene imagen, descripción y botón de “Ver más”.
-- Diseño responsivo y accesible.
-
 ## 🔍 Análisis de Competencia
 Para inspirar el diseño y la experiencia de usuario, se recomienda analizar aplicaciones o sitios web
 con objetivos similares:
