@@ -110,6 +110,6 @@ con objetivos similares:
 
 ## 🧾 Referencia
 Proyecto: **Raíces Viajeras**  
-Repositorio: [https://github.com/raicesviajeras](https://github.com/raicesviajeras)  
+Repositorio: [https://github.com/Manuucho27/PageCrafters.git] 
 Sprint: **1 — Diseño de interfaz y navegación**  
 Estado: 🟢 *En desarrollo*
