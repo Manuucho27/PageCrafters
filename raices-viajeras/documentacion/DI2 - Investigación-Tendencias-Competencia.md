@@ -92,9 +92,9 @@ Conocer la competencia ayuda a **mejorar la experiencia de usuario** y a destaca
 
 ## 🧭 Prioridad y Estimación
 
-| Prioridad | Esfuerzo estimado | Sprint |
-|-----------|-------------------|--------|
-| 1         | 5 días            | Sprint 1 |
+| Prioridad | Esfuerzo estimado | Dependencias |
+|-----------|-------------------|--------------|
+| 1         | 5 días            |    Ninguna   |
 
 ---
 
