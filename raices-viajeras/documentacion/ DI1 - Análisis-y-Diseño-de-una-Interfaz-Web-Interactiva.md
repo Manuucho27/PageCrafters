@@ -25,13 +25,13 @@ Para inspirar el diseño y la experiencia de usuario, se recomienda analizar apl
 con objetivos similares:
 
 ---
+
 | Sitio / App            | Elementos destacables | Lecciones para Raíces Viajeras |
 |------------------------|----------------------|--------------------------------|
 | **Biosfy**             | Enfoque temático claro, diseño visual limpio y emocional, interfaz responsiva y minimalista | Prioriza la usabilidad móvil, crear categorías, desarrollar un blog
 | **Responsible Travel** | Menús simples, fichas de viaje con impacto ecológico | Integrar filtros por tipo de experiencia y sostenibilidad |
 | **Ecobnb**             | Diseño limpio, colores naturales, uso de iconos verdes | Emplear paleta ecológica y fotos auténticas |
 | **Wild Terrains**      | Experiencias personalizadas y storytelling | Crear descripciones narrativas e inspiradoras |
-| **Airbnb Experiences** | Interactividad en la búsqueda y uso de mapas | Implementar mapa interactivo y categorías dinámicas |
 
 ---
 
@@ -61,7 +61,7 @@ con objetivos similares:
 
 - HTML5 + CSS3 (Flexbox / Grid)
 - JavaScript con animaciones ligeras (transiciones y efectos al hacer scroll)
-- Framework: Laravel + Blade o API REST + Vue.js
+- Framework: Laravel + Blade + Bootstrap
 - Integración futura con base de datos para mostrar destinos y experiencias.
 - Pruebas de usabilidad con usuarios reales (mínimo 3 testers internos).
 
@@ -81,9 +81,9 @@ con objetivos similares:
 
 ## 🧭 Prioridad y Estimación
 
-| Prioridad | Esfuerzo estimado | Sprint |
-|-----------|-------------------|--------|
-| 1         | 3 días            | Sprint 1 |
+| Prioridad | Esfuerzo estimado | Dependencia |
+|-----------|-------------------|-------------|
+|     1     |      3 días       |   Ninguna   |
 
 ---
 
